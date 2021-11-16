@@ -1,0 +1,8 @@
+font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif;
+
+
+:root{
+    --fontmain: font-family: 'Bebas Neue', cursive;
+    --fontsecondary: 'Roboto', sans-serif;
+}
